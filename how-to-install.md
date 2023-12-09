@@ -1,6 +1,6 @@
 
 
-## Number Generator Install Guide
+## simple-login Install Guide
 
 
 
